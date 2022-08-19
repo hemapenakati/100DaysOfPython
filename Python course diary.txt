@@ -1,0 +1,13 @@
+100 days of python:
+Day 1:
+In day 1, I have started pyhton course in Udemy by Angela Yu.And I have learnt about introduction of python and how to use print function.
+
+Day 2:
+I have learnt how to concatenate two strings into a single string and  how to use input function. And also types of errors
+
+Day 3:
+I have learnt about data types, Mathematical operations, debugging. Also I have done some exercises and quiz.
+
+
+
+
