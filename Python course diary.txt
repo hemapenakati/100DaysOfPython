@@ -8,6 +8,10 @@ I have learnt how to concatenate two strings into a single string and  how to us
 Day 3:
 I have learnt about data types, Mathematical operations, debugging. Also I have done some exercises and quiz.
 
+Day 4:
+I have learnt about if else statements(conditional statements) and nested if statements.
+
+
 
 
 
