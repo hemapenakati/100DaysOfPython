@@ -11,6 +11,11 @@ I have learnt about data types, Mathematical operations, debugging. Also I have 
 Day 4:
 I have learnt about if else statements(conditional statements) and nested if statements.
 
+Day 5:
+I have written some programs using loops.
+
+
+
 
 
 
